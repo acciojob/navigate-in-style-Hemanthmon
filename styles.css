@@ -1,3 +1,4 @@
+
 .navbar{
 	background-color : #D3D3D3 ;
 	padding : 10px;
@@ -5,7 +6,7 @@
 .navbar ul {
    list-style : none;
 	padding: 0;
-	margiin : 0;
+	margin : 0;
 }
 .navbar li {
 	display: inline;
